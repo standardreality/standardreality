@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @standardreality
+- 👀 I’m interested in game devolpment/computer science
+- 🌱 I’m currently learning how to use unity
